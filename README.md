@@ -6,4 +6,5 @@ https://lucid.app/lucidchart/7ec25eb5-525c-4d1f-86cf-004da8babd44/edit?invitatio
 
 And here is the SVG:
 
-![Reimbursement Request Process](https://github.com/miladmoosavi/ReimbursmentRequestProcess/assets/33567628/dec9432e-af07-4d89-ae1b-8332924da636)
+![Reimbursement Request Process (1)](https://github.com/miladmoosavi/ReimbursmentRequestProcess/assets/33567628/a77c0b70-4bec-43dd-bf96-5c9a49d48929)
+
