@@ -8,3 +8,6 @@ And here is the SVG:
 
 ![Reimbursement Request Process (1)](https://github.com/miladmoosavi/ReimbursmentRequestProcess/assets/33567628/a77c0b70-4bec-43dd-bf96-5c9a49d48929)
 
+
+This is the link to the flowchart:
+https://lucid.app/lucidchart/923c71fc-4094-4299-800a-5b5595062743/edit?beaconFlowId=5A55BA0EAAD7AECE&invitationId=inv_ae16cf8a-1034-44c9-9df2-46c00668f060&page=0_0#
